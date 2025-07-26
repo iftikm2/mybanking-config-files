@@ -2,7 +2,7 @@
 build:
   version:"1.0"
 cards:
-  message: "Welocme to my banking Prod cards live update"
+  message: "Welocme to my banking Prod cards live update1"
   contactDetails:
     name: "Asif Iftikhar Prod cards"
     email: "asif.iftikhar31@gmail.com"
