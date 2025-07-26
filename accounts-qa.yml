@@ -1,0 +1,10 @@
+build:
+  version:"2.0"
+accounts:
+  message: "Welocme to my banking qa"
+  contactDetails:
+    name: "Asif Iftikhar qa"
+    email: "asif.iftikhar31@gmail.com"
+  phone:
+    - "647-718-2222"
+    - "647-367-2222"

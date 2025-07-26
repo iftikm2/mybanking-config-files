@@ -1,0 +1,12 @@
+  
+build:
+  version: "3.0"
+
+cards:
+  message: "Welocme to my banking"
+  contactDetails:
+    name: "Asif Iftikhar"
+    email: "asif.iftikhar31@gmail.com"
+  phone:
+    - "647-718-2222"
+    - "647-367-2222"
