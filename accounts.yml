@@ -9,3 +9,6 @@ accounts:
   phone:
     - "647-718-2347"
     - "647-367-3942"
+  credentials:
+    user: "asif"
+    password: "{cipher}d87ce7934c1f77db93d2e07889d144fd7376db5e15e0a07c62e090117d506f44"

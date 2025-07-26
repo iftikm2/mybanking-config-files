@@ -6,6 +6,9 @@ accounts:
   contactDetails:
     name: "Asif Iftikhar Prod"
     email: "asif.iftikhar31@gmail.com"
+  credentials:
+    user: "asif"
+    password: "{cipher}d87ce7934c1f77db93d2e07889d144fd7376db5e15e0a07c62e090117d506f44"
   phone:
     - "647-718-3333"
     - "647-367-3333"
