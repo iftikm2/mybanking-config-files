@@ -2,7 +2,7 @@
 build:
   version:"1.0"
 accounts:
-  message: "Welocme to my banking Prod"
+  message: "Welocme to my banking Prod live update"
   contactDetails:
     name: "Asif Iftikhar Prod"
     email: "asif.iftikhar31@gmail.com"
