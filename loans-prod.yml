@@ -2,7 +2,7 @@
 build:
   version:"1.0"
 loans:
-  message: "Welocme to my banking loans live update666"
+  message: "Welocme to my banking loans Prod live update666"
   contactDetails:
     name: "Asif Iftikhar loans"
     email: "asif.iftikhar31@gmail.com"

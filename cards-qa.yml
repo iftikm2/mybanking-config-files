@@ -2,10 +2,10 @@
 build:
   version:"2.0"
 cards:
-  message: "Welocme to my banking qa cards"
+  message: "Welocme to my banking cards QA live update666"
   contactDetails:
-    name: "Asif Iftikhar qa"
+    name: "Asif Iftikhar loans"
     email: "asif.iftikhar31@gmail.com"
   phone:
-    - "647-718-2222"
-    - "647-367-2222"
+    - "647-718-3333"
+    - "647-367-3333"
