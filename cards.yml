@@ -3,7 +3,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welocme to my banking"
+  message: "Welocme to my banking live update 2:03"
   contactDetails:
     name: "Asif Iftikhar"
     email: "asif.iftikhar31@gmail.com"
