@@ -2,7 +2,7 @@
 build:
   version: "3.0"
 accounts:
-  message: "Welocme to my banking docker compose test live change 1:57"
+  message: "Welocme to my banking docker compose test live change 2:04"
   contactDetails:
     name: "Asif Iftikhar"
     email: "asif.iftikhar31@gmail.com"
